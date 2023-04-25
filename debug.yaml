@@ -1,9 +1,8 @@
-...
- -name: my first playbook
+
+- name: my first playbook
   hosts: all
-tasks:
+  tasks:
    - name: my first tasks
      debug:
        msg: "heelo world" 
-
-...        
+        
