@@ -1,0 +1,21 @@
+key: value
+
+Identication blocks
+fruit:
+   - mango,
+   - apple,
+   - banana
+  pineapple
+    chikoo
+
+# 1. string 
+  name: vina khedikar
+# 2. numbers
+ mobile: 7058199872
+# 3. Boolean
+Indian: true
+# 4. list
+fruit:
+  banana,mango,apple
+#5. map /dictonary
+ Address: {city:amravati, state:mh,country:indian1}    
